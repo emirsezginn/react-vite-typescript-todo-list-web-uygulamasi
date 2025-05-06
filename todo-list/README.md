@@ -1,7 +1,8 @@
 # ✅ React Todo List App
 
 
-![image](https://github.com/user-attachments/assets/f80d02d8-1c5d-4c05-b25f-8dc5eaf58ecb)
+![image](https://github.com/user-attachments/assets/0d8b7858-975e-44e8-84cf-362b719b9ae7)
+
 
 
 Bu proje, **React + TypeScript + Vite** ile geliştirilmiş bir yapılacaklar listesi (Todo List) uygulamasıdır. Stil yönetiminde **styled-components**, kullanıcı bildirimlerinde **sweetalert2**, sayfa yönlendirmelerinde ise **React Router** kullanılmıştır. Veriler **localStorage** kullanılarak kalıcı hale getirilmiştir.

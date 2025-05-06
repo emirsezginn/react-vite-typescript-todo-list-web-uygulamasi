@@ -16,14 +16,14 @@ Bu proje, **React + TypeScript + Vite** ile geliştirilmiş bir yapılacaklar li
 - Görev ekleme, silme, düzenleme ve tamamlama
 - Görev filtreleme: tümü, tamamlananlar, aktif görevler
 
-- src/
-├── components/       # Bileşenler (AddTodo, TodoList vs.)
-├── pages/            # Sayfalar (Home, About)
-├── types/            # Type tanımlamaları (Todo tipi)
-├── utils/            # Yardımcı fonksiyonlar (localStorage işlemleri)
-├── styles/           # Global stil dosyaları
-├── App.tsx           # Uygulama rotaları
-└── main.tsx          # Giriş noktası
+- `src/`
+  - `components/`       # Bileşenler (AddTodo, TodoList vs.)
+  - `pages/`            # Sayfalar (Home, About)
+  - `types/`            # Type tanımlamaları (Todo tipi)
+  - `utils/`            # Yardımcı fonksiyonlar (localStorage işlemleri)
+  - `styles/`           # Global stil dosyaları
+  - `App.tsx`           # Uygulama rotaları
+  - `main.tsx`          # Giriş noktası
 
 
 ## 📦 Kurulum

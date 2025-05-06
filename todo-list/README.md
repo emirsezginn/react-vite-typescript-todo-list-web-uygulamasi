@@ -16,6 +16,8 @@ Bu proje, **React + TypeScript + Vite** ile geliştirilmiş bir yapılacaklar li
 - Görev ekleme, silme, düzenleme ve tamamlama
 - Görev filtreleme: tümü, tamamlananlar, aktif görevler
 
+## Proje Yapısı
+
 - `src/`
   - `components/`       # Bileşenler (AddTodo, TodoList vs.)
   - `pages/`            # Sayfalar (Home, About)

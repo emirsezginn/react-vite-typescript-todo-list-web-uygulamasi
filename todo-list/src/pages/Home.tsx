@@ -191,7 +191,7 @@ const Home: React.FC = () => {
         </StatCard>
         <StatCard>
           <StatNumber>{activeCount}</StatNumber>
-          <StatLabel>Bekleyen</StatLabel>
+          <StatLabel>Aktif</StatLabel>
         </StatCard>
         <StatCard>
           <StatNumber>{completedCount}</StatNumber>

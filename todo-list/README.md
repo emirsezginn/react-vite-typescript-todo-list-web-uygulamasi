@@ -35,15 +35,15 @@ Aşağıdaki adımları takip ederek projeyi kendi bilgisayarınızda çalışt�
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullanici-adi/proje-adi.git
-cd proje-adi
+git clone https://github.com/emirsezginn/react-vite-typescript-todo-list-web-uygulamasi.git
+cd react-vite-typescript-todo-list-web-uygulamasi
 
-## Gerekli bağımlılıkları yükleyin
+# 2. Gerekli bağımlılıkları yükleyin
 npm install
 
-##  Ek Bağımlılıkları Kurun 
+# 3. Ek bağımlılıkları yükleyin
 npm install styled-components react-router-dom sweetalert2
 npm install -D @types/styled-components @types/react-router-dom
 
-##  Başlatın
+# 4. Geliştirme sunucusunu başlatın
 npm run dev

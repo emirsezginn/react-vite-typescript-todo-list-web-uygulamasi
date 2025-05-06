@@ -66,7 +66,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
       </Header>
       <Main>{children}</Main>
       <Footer>
-        <p>Todo List App © {new Date().getFullYear()}</p>
+        <p>Todo List App © {new Date().getFullYear()} Emirhan Sezgin</p>
       </Footer>
     </Container>
   )

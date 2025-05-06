@@ -25,22 +25,19 @@ const Content = styled.div`
 const About: React.FC = () => {
   return (
     <AboutContainer>
-      <Title>About Todo List App</Title>
+      <Title>Todo List Web App</Title>
       <Content>
         <p>
-          This is a simple Todo List application built with React, TypeScript, and styled-components.
-          It allows you to add, edit, delete, and mark todos as completed.
+        Bu Todo List Uygulaması, günlük hayatınızdaki görevleri düzenlemek ve takip etmek için basit ama kullanışlı bir araçtır. React, TypeScript, ve Vite kullanarak geliştirilen bu uygulama, şık bir kullanıcı arayüzü ve etkili görev yönetimi sağlar.
         </p>
         <p>
-          The application uses localStorage to persist your todos between sessions, so your tasks
-          won't disappear when you refresh the page or close the browser.
+        Uygulama, görevlerinizi eklemenize, düzenlemenize, silmenize ve tamamlamanıza olanak tanır. Ayrıca, görevlerinizi tamamlanmış, aktif ve tüm görevler olarak filtreleyebilirsiniz. Görevleriniz localStorage kullanılarak kalıcı hale gelir, böylece sayfayı yenileseniz ya da uygulamayı kapatsanız bile verileriniz kaybolmaz.
         </p>
         <p>
-          You can also filter your todos by their completion status to better organize your tasks.
+        styled-components ile modern bir stil yönetimi yapılmış olup, sweetalert2 ile şık bildirimler gösterilir. React Router ile sayfalar arası geçişler yapılır ve tüm bunlar TypeScript desteğiyle güçlü ve tip güvenli bir yapı oluşturulmuştur.
         </p>
         <p>
-          This project demonstrates modern React development practices including functional
-          components, hooks, TypeScript integration, and styled-components for CSS-in-JS styling.
+        Uygulama, görevlerinizi takip ederken işlerinizi daha verimli bir şekilde yapmanıza yardımcı olmak için tasarlanmıştır.
         </p>
       </Content>
     </AboutContainer>

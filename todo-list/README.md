@@ -36,7 +36,7 @@ Aşağıdaki adımları takip ederek projeyi kendi bilgisayarınızda çalışt�
 
 ```bash
 git clone https://github.com/emirsezginn/react-vite-typescript-todo-list-web-uygulamasi.git
-cd react-vite-typescript-todo-list-web-uygulamasi
+cd react-vite-typescript-todo-list-web-uygulamasi/todo-list
 
 # 2. Gerekli bağımlılıkları yükleyin
 npm install
